@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Oie! Me chamo Maria Eduarda 🌸</h1>
 
-<!--
-**mdudocs/mdudocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Estudante de Ciência da Computação | Dev em Formação</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Sobre mim ₍^. .^₎⟆
+
+Sou uma desenvolvedora em formação de 20 anos, baseada em Manaus 🌿. 
+Adoro explorar como a tecnologia pode transformar processos e resolver problemas, desde a Indústria 4.0 até iniciativas de impacto socioambiental! 
+
+- 🔭 **Atualmente trabalhando em:** Projetos de impacto como o *NeuroMap Amazônia*.
+- 🌱 **Atualmente aprendendo:**Modelagem de banco de dados, SQL, análise de dados, elaboração da documentação técnica de projetos de software.
+- 📫 **Como me encontrar:** meduarda.souza.mendes@gmail.com ou https://www.linkedin.com/in/eduarda-mendes-aa56402a3/
+- ⚡ **Curiosidade:** Falo inglês fluente (C2) e paeticipei de um intercâmbio de curta duração nos Estados Unidos!
+
+### 🛠️ O que eu procuro desenvolver?
+
+- **Bancos de Dados:** MySQL, SQL Server, Análise de Dados
+- **Cibersegurança:** Blue team, red team
+- **Linguagens & Automação:** Front-end e seus frameworks, Back-end e seus frameworks
