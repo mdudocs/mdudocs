@@ -14,7 +14,7 @@ Adoro explorar como a tecnologia pode transformar processos e resolver problemas
 - 🔭 **Atualmente trabalhando em:** Projetos de impacto como o *NeuroMap Amazônia*.
 - 🌱 **Atualmente aprendendo:**Modelagem de banco de dados, SQL, análise de dados, elaboração da documentação técnica de projetos de software.
 - 📫 **Como me encontrar:** meduarda.souza.mendes@gmail.com ou https://www.linkedin.com/in/eduarda-mendes-aa56402a3/
-- ⚡ **Curiosidade:** Falo inglês fluente (C2) e paeticipei de um intercâmbio de curta duração nos Estados Unidos!
+- ⚡ **Curiosidade:** Falo inglês fluente (C2) e participei de um intercâmbio de curta duração nos Estados Unidos!
 
 ### 🛠️ O que eu procuro desenvolver?
 
