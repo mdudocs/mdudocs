@@ -12,7 +12,7 @@ Sou uma desenvolvedora em formação de 20 anos, baseada em Manaus 🌿.
 Adoro explorar como a tecnologia pode transformar processos e resolver problemas, desde a Indústria 4.0 até iniciativas de impacto socioambiental! 
 
 - 🔭 **Atualmente trabalhando em:** Projetos de impacto como o *NeuroMap Amazônia*.
-- 🌱 **Atualmente aprendendo:**Modelagem de banco de dados, SQL, análise de dados, elaboração da documentação técnica de projetos de software.
+- 🌱 **Atualmente aprendendo:** Modelagem de banco de dados, SQL, análise de dados, elaboração da documentação técnica de projetos de software.
 - 📫 **Como me encontrar:** meduarda.souza.mendes@gmail.com ou https://www.linkedin.com/in/eduarda-mendes-aa56402a3/
 - ⚡ **Curiosidade:** Falo inglês fluente (C2) e participei de um intercâmbio de curta duração nos Estados Unidos!
 
